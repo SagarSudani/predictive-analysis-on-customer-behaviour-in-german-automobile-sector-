@@ -5,8 +5,8 @@ This project focuses on leveraging Big Data and Predictive Analytics to understa
 📌 **Project Overview**
 Domain: Automobile Industry (Germany)
 Objective: Predict customer behavior based on historical data and key influencing factors.
-Techniques Used: Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning
-Data types - **Primary data and secondary data**.
+Techniques Used: Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning.
+ Data types - **Primary data and secondary data**.
 
 🚀 **Key Features**
 ✅ Data Cleaning & Preprocessing – Handling missing values, feature scaling, and encoding categorical variables.
