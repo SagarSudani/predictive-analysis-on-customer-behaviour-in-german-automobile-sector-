@@ -1,4 +1,4 @@
-# predictive-analysis-on-customer-behaviour-in-german-automobile-sector-
+# predictive-analysis-on-customer-behaviour-in-german-automobile-sector Thesis-
 🚗🔍 Predictive Analysis on Customer Behavior in the German Automobile Sector
 This project focuses on leveraging Big Data and Predictive Analytics to understand customer behavior in the German automobile industry. The goal is to identify key factors influencing customer preferences, purchasing decisions, and brand loyalty using machine learning models and data-driven insights.
 
